@@ -27,7 +27,7 @@ Integrated M.Tech CSE Student @ VIT-AP • Java Developer • Aspiring Software 
 - Spring Boot
 - REST API Development
 - Data Structures & Algorithms
-- System Design Fundamentals
+
 
 ---
 
@@ -41,7 +41,7 @@ Integrated M.Tech CSE Student @ VIT-AP • Java Developer • Aspiring Software 
 
 ### Backend
 
-Core Java • Spring Boot • JDBC • OOP
+Core Java • Spring Boot • JDBC • Object-Oriented Programming (OOP)
 
 ### Database
 
@@ -58,23 +58,6 @@ Core Java • Spring Boot • JDBC • OOP
 ---
 
 # 📂 Featured Projects
-
-## 🚗 Driver Drowsiness Detection
-
-A computer vision-based system that detects driver drowsiness by monitoring eye movements and alerts users in real time to improve road safety.
-
-**Highlights**
-- 👁️ Detects eye closure using computer vision.
-- ⚠️ Alerts drivers when signs of drowsiness are detected.
-- 📷 Processes live webcam video for continuous monitoring.
-
-**Tech Stack**
-- Python
-- OpenCV
-- TensorFlow
-
----
-
 ## 💼 Job Application & Recruitment Portal
 
 A role-based web application designed for candidates, recruiters, and administrators to streamline the recruitment process.
@@ -94,6 +77,40 @@ A role-based web application designed for candidates, recruiters, and administra
 
 ---
 
+## 🚗 Driver Drowsiness Detection
+
+A computer vision-based system that detects driver drowsiness by analyzing eye closure and yawning using OpenCV, providing real-time alerts to improve road safety.
+
+**Highlights**
+- 👁️ Detects eye closure using computer vision.
+- ⚠️ Alerts drivers when signs of drowsiness are detected.
+- 📷 Processes live webcam video for continuous monitoring.
+
+**Tech Stack**
+- OpenCV
+- TensorFlow
+- Computer Vision
+
+---
+## 📚 Library Management System
+
+A web-based library management application that enables efficient management of books and members through CRUD operations using Spring Boot and MySQL.
+
+**Highlights**
+- 📖 Performed CRUD operations for books and library members.
+- 🔍 Implemented search and retrieval of library records.
+- 🗄️ Integrated MySQL using Spring Data JPA and Hibernate.
+- 🌐 Developed a responsive web interface for managing library data.
+
+**Technologies Used**
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- MySQL
+---
+
 ## 🩺 Lung Cancer Detection
 
 A machine learning-based application that predicts the likelihood of lung cancer using patient health data to assist in early diagnosis.
@@ -104,8 +121,9 @@ A machine learning-based application that predicts the likelihood of lung cancer
 - 📈 Assists in early disease prediction.
 
 **Tech Stack**
-- Python
-- Machine Learning
+- scikit-learn
+- Pandas
+- NumPy
 
 ---
 
@@ -138,7 +156,7 @@ A machine learning-based application that predicts the likelihood of lung cancer
 
 - ⭐ 5★ Problem Solving on HackerRank
 - 💻 Solved 150+ Data Structures & Algorithms problems
-- 🚀 Built software projects using Java, PHP, Python, and Machine Learning
+- 🚀 Developed web applications using Java, Spring Boot, PHP, and MySQL
 - 🎯 Seeking Software Development Engineer (SDE) opportunities
 
 ---
@@ -153,6 +171,9 @@ A machine learning-based application that predicts the likelihood of lung cancer
 
 <a href="https://github.com/chandusri26" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="mailto:chandusri.g26@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <!-- Uncomment and replace with your portfolio when available -->
